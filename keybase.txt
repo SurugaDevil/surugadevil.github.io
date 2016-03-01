@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/surugadevil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://surugadevil.github.io
+  * I am surugadevil (https://keybase.io/surugadevil) on keybase.
+  * I have a public key with fingerprint 6889 CAD9 A3F6 49F8 86DD  566B 03C1 9839 884D B129
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014ea1e7f9c46dfeac2054303500f631677242822d6f47d85e3976fad4b38e84360a",
+            "fingerprint": "6889cad9a3f649f886dd566b03c19839884db129",
+            "host": "keybase.io",
+            "key_id": "03c19839884db129",
+            "kid": "01014ea1e7f9c46dfeac2054303500f631677242822d6f47d85e3976fad4b38e84360a",
+            "uid": "c737a39c2272a44610d7dacddf8bce19",
+            "username": "surugadevil"
+        },
+        "service": {
+            "hostname": "surugadevil.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1456849513,
+    "expire_in": 157680000,
+    "prev": "5e735afd92f0b1c925eb78c692dc38a7867f3cd3e04b509fc3deefc359361fe4",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIsAnicrVJbSBRRGN7NzFosI4OwbK3BlEhkZs6ZM2eW6CGp1JcoJCKC9cycM+vY
+OrPtzK6ZWJG5RRDShaIbK2bUS3aTop422yIQLEnrqQtKYIUVFRVZ1EyXp147D+dw
+zvm+7/++nz87M8cX8B+YM375WXAT9A/c6kn4Noz0G62catEWLtTKbWG/DhalzHbC
+WwzKhThe4AXIiMBkXdEgojojmshLEPBA4nkdAQHJsghFLIoU6VCmWGJAkZFOKFQB
+ZhgCxBOugtMNM8LisbhhOq4swljRCFUI0BFUdIwRpRJCKg80QcFAwRhSVRAVl9hg
+2R7DNacSm1UalvvmXsK/7f2L/8++E7/kNBnIBCiaKMoigRAJPJUp0SjVsaoxwaub
+sFncJE3MRduJeCJCKEsaUa6tgnM/kobGvN56Yf4FVUYMpyGh/s4Wi1uOpVlRF9Lg
+ODE75Ek4LTGP08zU8B+1sGqY1O2py0iyuG1YJhcSXKTmGJ68ACWEoSIJoIJj22JG
+nIUNDyHJCPPu8uqwpCspMRlIRKeKqPOqoCmixFQZa0gRqQYwkTGSdaBRwHioSryi
+a4Ay5u6SApCgM8h5+baalqstuj5JxItmREziJOKMa+vPbJ7q8wd803KneMPmC8yY
+/XcEd+3K+xYYerI6f9nSOv/xsreltZkFl6/kVJ89fCx97KXzrmk03FrdcHDdm2Dj
+J/HiJeHDj8DnrsDyOwtL8k9mny4pePCoHe6v75met+/r4MRYy83Jia786+X+rk2T
+H8Lm3dF1m1f2vnjeG7oaLi6gRReKnvcqHyfOL553W8h7XNqx0QiuHhlbMbjo1fro
+jfmv97zpGuxckj5efehhT/eiYcKd6C7yj89dUFh2bZb8vnxsbWxVTnswt2BNc2xn
+R8Q5OpzK1NUVD03t+3FkR2njwRJ0b7zqy1ndv7Pj3GSqLXW/qrv2OyzO7g7SHJsr
+ks7UHDqV6suUwNP69nRhtjNdU3/q5YDUufcnGRZB3w==
+=KkR2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/surugadevil
+
+==================================================================
